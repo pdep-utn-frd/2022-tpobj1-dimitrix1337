@@ -1,0 +1,10 @@
+import wollok.game.*
+import ceo.* 
+
+program ceo {
+
+	juego.configurar()
+	juego.iniciar()
+	game.start()
+
+}
